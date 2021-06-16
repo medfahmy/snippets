@@ -1,0 +1,13 @@
+.snippets-preview a:hover {
+  background: #e4e4e4;
+  text-decoration: none;
+}
+
+.snippets-details .metadata {
+  font-size: 14px;
+}
+
+.create {
+  max-width: 400px;
+  margin: 20px auto;
+}
